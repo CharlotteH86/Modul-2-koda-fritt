@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}.box{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin: 50px 0 0 0;}
